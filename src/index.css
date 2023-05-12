@@ -1,0 +1,27 @@
+.main{
+  margin-top: 100px;
+}
+
+.heading{
+  display: flex;
+  justify-content: center;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: rgb(4, 4, 88);
+}
+.btn{
+  display: flex;
+  justify-content: center;
+
+}
+.ethbtn{
+ background-color: rgb(185, 215, 215);
+ border-radius: 30px;
+ padding: 20px;
+ margin: 10px;
+ font-size: large;
+ 
+}
+.ethbtn:hover{
+ background-color: rgb(125, 125, 221);
+ font-weight: bold;
+}
